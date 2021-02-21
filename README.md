@@ -1,2 +1,2 @@
-# Fake News Detection
-The focus of the project is to identify the techniuqes by which we will able to check the validity of the news.
+# Real And Fake News Detection
+The focus of this project is to identify the Validity of a News.
